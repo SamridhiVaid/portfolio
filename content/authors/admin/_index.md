@@ -1,16 +1,17 @@
 ---
 title: Samridhi Vaid
 role: M.Sc. (thesis) student at University of Alberta
+avatar_filename: /Users/samridhivaid/Desktop/IMG_0233.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - TransferLearning
-  - MachineLearning
-  - DeepLearning
+  - Transfer Learning
+  - Machine Learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: svaid@ualberta.ca
+    link: mailto:svaid@ualberta.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/samridhivaid
@@ -21,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/samridhi-vaid-b1754495/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Alberta
+    url: https://www.ualberta.ca/
 education:
   courses:
     - course: MSc in Computer Science (thesis based)
