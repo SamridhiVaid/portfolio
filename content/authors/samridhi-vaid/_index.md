@@ -1,7 +1,7 @@
 ---
 title: Samridhi Vaid
 role: M.Sc. (thesis) student at University of Alberta
-avatar_filename: img_0234.jpg
+avatar_filename: https://drive.google.com/file/d/1JD_pAqvcUjGgQz4HpXJWO8J6UG9fZ4mz/view?usp=sharing
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
