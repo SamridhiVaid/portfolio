@@ -28,8 +28,8 @@ content:
   email: s{lastname}-AT-ualberta.ca
   address:
     ATH 1-40
-    DEPARTMENT OF COMPUTING SCIENCE
-    UNIVERSITY OF ALBERTA
+    Department of Computing Science
+    University of Alberta
     Edmonton, Alberta, Canada T6G 2E8
   
 
