@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
- - name: Experience
-   url: '#experience'
-   weight: 20
-     - name: Accomplishments
+  - name: Experience
+    url: '#experience'
+    weight: 20
+  - name: Accomplishments
     url: '#accomplishments'
     weight: 30
   - name: Projects
